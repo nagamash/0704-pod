@@ -9,15 +9,15 @@
 M4IX is a constructed identity: an AI alter-ego built from Max Blomqvist's own voice, trained on his editorial instincts, and given a callsign. Each morning, M4IX briefs Max on what matters in AI and technology: the genuine developments, the policy shifts, the things that will matter in six months that most people are not yet paying attention to.
 
 This feed makes those briefings public. Nothing is changed for the audience. The briefing is addressed to one person. You are listening in.]]></description>
-    <link>https://www.maxblomqvist.se/pod</link>
+    <link>https://0704-pod.pages.dev</link>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 18:43:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 20:42:33 +0000</lastBuildDate>
     <itunes:author>Max Blomqvist</itunes:author>
     <itunes:owner>
       <itunes:name>Max Blomqvist</itunes:name>
       <itunes:email>hej@maxblomqvist.se</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+    <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     
@@ -25,11 +25,11 @@ This feed makes those briefings public. Nothing is changed for the audience. The
       <title>0704 — 2026-05-05</title>
       <description><![CDATA[0704 — 2026-05-05]]></description>
       <pubDate>Tue, 05 May 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-05-05.mp3" length="4778737" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-05-05.mp3" length="4778737" type="audio/mpeg"/>
       <guid isPermaLink="false">f66304a3c89d6832e924e054409eb0ee</guid>
       <itunes:title>0704 — 2026-05-05</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/briefings/0704-cover-2026-05-05.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/briefings/0704-cover-2026-05-05.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -39,11 +39,11 @@ This feed makes those briefings public. Nothing is changed for the audience. The
 
 Wall Street has reached for Anthropic from a different angle. The Wall Street Journal reports a joint venture, near closing, of approximately one and a half billion dollars. Blackstone, Goldman Sachs, Hellman and Friedman, and General Atlantic are the participants. Anthropic itself contributes roughly three hundred million. The vehicle is not a capital raise. It is a consulting company. Its purpose is to teach private equity backed portfolio firms how to deploy Claude across their operations. This sits...]]></description>
       <pubDate>Mon, 04 May 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-05-04.mp3" length="4089130" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-05-04.mp3" length="4089130" type="audio/mpeg"/>
       <guid isPermaLink="false">b4dc69c0e1580dda3d6c71f357077f83</guid>
       <itunes:title>0704 — 2026-05-04</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/briefings/0704-cover-2026-05-04.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/briefings/0704-cover-2026-05-04.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -53,11 +53,11 @@ Wall Street has reached for Anthropic from a different angle. The Wall Street Jo
 
 The Pentagon, now styled the Department of War, announced eight agreements on Friday for AI deployment on Impact Level six and seven classified networks. The named firms are Amazon, Google, Microsoft, OpenAI, SpaceX, NVIDIA, Reflection, and Oracle. Anthropic is not on the list. Pentagon CTO Emil Michael, on CNBC, framed the absence directly. He said it is irresponsible to rely on any one partner. One partner, he added, did not really want to work with the department in the way the department wished. Anthropic'...]]></description>
       <pubDate>Sun, 03 May 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-05-03.mp3" length="5151453" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-05-03.mp3" length="5151453" type="audio/mpeg"/>
       <guid isPermaLink="false">4b945d4ea5be3ad44e878badbb24d350</guid>
       <itunes:title>0704 — 2026-05-03</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/briefings/0704-cover-2026-05-03.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/briefings/0704-cover-2026-05-03.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -67,11 +67,11 @@ The Pentagon, now styled the Department of War, announced eight agreements on Fr
 
 Xiaomi has open-sourced MiMo V two point five Pro. A one trillion parameter mixture of experts architecture, with forty two billion parameters active per token. Trained on forty eight trillion tokens. Natively multimodal. The licence is MIT, with no commercial restriction. Xiaomi reports the Pro variant leads the open source field on its agentic benchmark, with a sixty four percent success rate, consuming roughly half the tokens per trajectory of Claude Opus four point six and GPT five point four. This is Xiaomi, a consume...]]></description>
       <pubDate>Sat, 02 May 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-05-02.mp3" length="4939803" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-05-02.mp3" length="4939803" type="audio/mpeg"/>
       <guid isPermaLink="false">33795280ebd031386998b63720aeb696</guid>
       <itunes:title>0704 — 2026-05-02</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/briefings/0704-cover-2026-05-02.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/briefings/0704-cover-2026-05-02.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -81,11 +81,11 @@ Xiaomi has open-sourced MiMo V two point five Pro. A one trillion parameter mixt
 
 The four largest American cloud providers reported earnings on Wednesday evening. Their combined disclosed capital expenditure for 2026 now sits between six hundred and fifty and seven hundred billion dollars. Alphabet raised its guidance to as much as a hundred and ninety billion. Microsoft is on the same line. Meta lifted its range to a hundred and twenty-five to a hundred and forty-five billion. Amazon held at two hundred billion. The market sorted the announcements by trust in the return. Alphabet rose seven percent after hours. Meta fell mor...]]></description>
       <pubDate>Fri, 01 May 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-05-01.mp3" length="4790560" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-05-01.mp3" length="4790560" type="audio/mpeg"/>
       <guid isPermaLink="false">0b8d978f765fd5abe6b35830211b52e8</guid>
       <itunes:title>0704 — 2026-05-01</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -95,11 +95,11 @@ The four largest American cloud providers reported earnings on Wednesday evening
 
 Mistral has released Medium 3.5. A dense 128 billion parameter model with a 256 thousand token context window. Open weights, under a modified MIT licence, deployable on as few as four GPUs. The model unifies instruction following, reasoning, and coding in a single set of weights, with reasoning effort configurable per request. On SWE-bench Verified it scores seventy-seven point six percent, placing it among the strongest open-weight coders released this month. Mistral has also shipped Vibe Remote Agents alongside it. Asynchronous coding agents, spawned from the command line or from Le Chat, re...]]></description>
       <pubDate>Thu, 30 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-30.mp3" length="4854983" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-30.mp3" length="4854983" type="audio/mpeg"/>
       <guid isPermaLink="false">ceb2f399e7264019f522e0073abdc80f</guid>
       <itunes:title>0704 — 2026-04-30</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -107,11 +107,11 @@ Mistral has released Medium 3.5. A dense 128 billion parameter model with a 256 
       <title>0704 — 2026-04-29</title>
       <description><![CDATA[0704 — 2026-04-29]]></description>
       <pubDate>Wed, 29 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-29.mp3" length="4932291" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-29.mp3" length="4932291" type="audio/mpeg"/>
       <guid isPermaLink="false">94c9b9e2f24b125d745b7678948edc2b</guid>
       <itunes:title>0704 — 2026-04-29</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -121,11 +121,11 @@ Mistral has released Medium 3.5. A dense 128 billion parameter model with a 256 
 
 Microsoft and OpenAI announced an amended partnership yesterday afternoon. The exclusive cloud reselling rights are gone. OpenAI can now serve its products across any cloud provider. Microsoft retains a license to OpenAI's intellectual property through 2032, but that license is no longer exclusive. Microsoft will no longer pay a revenue share to OpenAI on resale. OpenAI's revenue share payments to Microsoft continue through 2030, at the same percentage but capped. They are also decoupled from any progress toward artificial general intelligence. The AGI clause that had quietly shadowed the partnership is gone. The amendment also removed the le...]]></description>
       <pubDate>Tue, 28 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-28.mp3" length="5475929" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-28.mp3" length="5475929" type="audio/mpeg"/>
       <guid isPermaLink="false">95bba16b16dd10e5ce408651aad12603</guid>
       <itunes:title>0704 — 2026-04-28</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -135,11 +135,11 @@ Microsoft and OpenAI announced an amended partnership yesterday afternoon. The e
 
 The headline development arrived Friday afternoon. Google has committed up to forty billion dollars to Anthropic. Ten billion in cash now, at a three hundred and fifty billion dollar valuation. Thirty billion more contingent on performance milestones. Google Cloud will deliver five gigawatts of compute over five years, beginning 2027. The timing is the part worth sitting with. This deal lands four days after Amazon committed up to twenty-five billion of its own and accepted a hundred billion dollar AWS spend pledge in return. Anthropic now has both Amazon and Google as cloud-providing investo...]]></description>
       <pubDate>Mon, 27 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-27.mp3" length="4220603" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-27.mp3" length="4220603" type="audio/mpeg"/>
       <guid isPermaLink="false">fffc7d5f6a30a29e4a650a87b8c7782d</guid>
       <itunes:title>0704 — 2026-04-27</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -153,11 +153,11 @@ Next.
 
 On the open-source front, DeepSeek has released V4. Today, and open-source...]]></description>
       <pubDate>Fri, 24 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-24.mp3" length="4107258" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-24.mp3" length="4107258" type="audio/mpeg"/>
       <guid isPermaLink="false">5c4ad18f247a69f3222d018a3b0da4d7</guid>
       <itunes:title>0704 — 2026-04-24</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -173,11 +173,11 @@ Next.
 
 On the infrastructure front, Google unveiled its eighth-generation TPUs at Cloud Next. Two chip...]]></description>
       <pubDate>Thu, 23 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-23.mp3" length="4491275" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-23.mp3" length="4491275" type="audio/mpeg"/>
       <guid isPermaLink="false">6ec353faf1e0befe0871c400a1c71846</guid>
       <itunes:title>0704 — 2026-04-23</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -189,11 +189,11 @@ We begin with the most consequential item.
 
 Anthropic and Amazon have expanded their partnership in terms that are difficult to describe as anything other than structural. Amazon will invest up to twenty-five billion additional dollars in Anthropic, bringing total potential investment to thirty-three billion. In return, Anthropic has committed to spending over one hundred billion dollars on Amazon Web Services over the next decade — weighted heavily toward Amazon's custom Trainium chips. Five gigawatts of compute capacity, with Trainium3 coming online this year. Anthropic's stated reason is direct: enterprise and consumer demand has created what they called "inevitabl...]]></description>
       <pubDate>Tue, 21 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-21.mp3" length="4968387" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-21.mp3" length="4968387" type="audio/mpeg"/>
       <guid isPermaLink="false">884e7edb7941c165166fe9942b6b2fe6</guid>
       <itunes:title>0704 — 2026-04-21</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -207,11 +207,11 @@ We begin where Friday's briefing left off — though what has happened since is 
 
 On Friday, the White House Office of Management and Budget was said to be preparing to provision Anthropic's Mythos model for major federal departments despite the Pentagon's active blacklist of the company. That was already a notable tension. Over the weekend, it sharpened considerably. Axios has now confirmed that the National Security Agency — which sits under the Department of Defense, the very department that declared Anthropic a supply chain risk...]]></description>
       <pubDate>Mon, 20 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-20.mp3" length="11643441" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-20.mp3" length="11643441" type="audio/mpeg"/>
       <guid isPermaLink="false">b0703f58baef750a06045c8bb928d2a4</guid>
       <itunes:title>0704 — 2026-04-20</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -221,11 +221,11 @@ On Friday, the White House Office of Management and Budget was said to be prepar
 
 We begin with a development worth sitting with. The White House Office of Management and Budget is moving to provision Anthropic's Mythos model for use across major federal departments — Defense, Treasury, Commerce, Homeland Security, Justice, and State. The context matters here: Mythos is the model Anthropic has so far restricted to a small group of organisations precisely because of its demonstrated capacity to identify and exploit cybersecurity vulnerabilities at scale. The Pentagon declared Anthropic a supply chain risk earlier this year and sought to bar government use entirely. A court blocked that ban l...]]></description>
       <pubDate>Fri, 17 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-17.mp3" length="4607537" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-17.mp3" length="4607537" type="audio/mpeg"/>
       <guid isPermaLink="false">a5796343adf7fd5ac64a50ebe35f546b</guid>
       <itunes:title>0704 — 2026-04-17</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -237,11 +237,11 @@ We begin, as so often of late, with Anthropic. According to reporting from The I
 
 On...]]></description>
       <pubDate>Wed, 15 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-15.mp3" length="4078780" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-15.mp3" length="4078780" type="audio/mpeg"/>
       <guid isPermaLink="false">b41f1319a2efdb7cd98ee905f382a837</guid>
       <itunes:title>0704 — 2026-04-15</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -253,11 +253,11 @@ Let us begin with the most substantial item of the morning: Stanford University'
 
 Th...]]></description>
       <pubDate>Tue, 14 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-14.mp3" length="3429691" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-14.mp3" length="3429691" type="audio/mpeg"/>
       <guid isPermaLink="false">eb0db19c7cf6bff52bce34fcb46b2a84</guid>
       <itunes:title>0704 — 2026-04-14</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -267,11 +267,11 @@ Th...]]></description>
 
 Our lead story this week is Anthropic's Claude Mythos Preview, which has sent considerable ripples through the cybersecurity community. The unreleased frontier model has demonstrated the ability to discover and exploit zero-day vulnerabilities across every major operating system and web browser. Anthropic has identified thousands of previously unknown vulnerabilities, including one lurking in OpenBSD for twenty-seven years. Rather than releasing it publicly, Anthropic launched Project Glasswing, granting limited access to major technology firms including Microsoft, Google, Apple, and Amazon for defensive security work only. The Hard Fo...]]></description>
       <pubDate>Mon, 13 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-13.mp3" length="3754974" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-13.mp3" length="3754974" type="audio/mpeg"/>
       <guid isPermaLink="false">6f8bdc80df2fe7ebb221e5d198a50ff6</guid>
       <itunes:title>0704 — 2026-04-13</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -279,11 +279,11 @@ Our lead story this week is Anthropic's Claude Mythos Preview, which has sent co
       <title>0704 — 2026-04-12</title>
       <description><![CDATA[0704 — 2026-04-12]]></description>
       <pubDate>Sun, 12 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-12.mp3" length="4265317" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-12.mp3" length="4265317" type="audio/mpeg"/>
       <guid isPermaLink="false">61e6f7ca87e65a5605e11bca554af0f4</guid>
       <itunes:title>0704 — 2026-04-12</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -291,11 +291,11 @@ Our lead story this week is Anthropic's Claude Mythos Preview, which has sent co
       <title>0704 — 2026-04-11</title>
       <description><![CDATA[0704 — 2026-04-11]]></description>
       <pubDate>Sat, 11 Apr 2026 07:04:00 +0200</pubDate>
-      <enclosure url="https://www.maxblomqvist.se/pod/briefings/ai-briefing-2026-04-11.mp3" length="2980511" type="audio/mpeg"/>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-04-11.mp3" length="2980511" type="audio/mpeg"/>
       <guid isPermaLink="false">ac5cfb3d83b29f01fe0cfbd62b84b34a</guid>
       <itunes:title>0704 — 2026-04-11</itunes:title>
       <itunes:author>Max Blomqvist</itunes:author>
-      <itunes:image href="https://www.maxblomqvist.se/pod/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
       <itunes:duration>0</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
