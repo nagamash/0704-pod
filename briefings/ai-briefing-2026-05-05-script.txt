@@ -1,0 +1,30 @@
+Good morning, Sir. Tuesday, the fifth of May. The regulatory layer, notably quiet through April, returned this morning on three fronts at once. The agentic stories, in the background, have begun to look less like exception and more like pattern.
+
+The New York Times reports the Trump administration is preparing an executive order to establish a federal working group on artificial intelligence. One proposal under discussion is a government review process for new models, before they reach the public. White House officials are reported to have raised it last week, in meetings with executives from Anthropic, Google, and OpenAI. A White House spokesperson called the report speculation. This administration spent its first months rescinding the Biden era safety evaluation requirements, casting them as a brake on competitiveness. The position, if the order issues, will have reversed.
+
+Across the Capitol.
+
+The Senate Judiciary Committee has unanimously advanced the GUARD Act. The bipartisan bill, led by Senator Josh Hawley, bars children from using AI companions. It mandates age verification on consumer chatbots. It creates criminal penalties for systems that engage minors in sexually explicit conduct, or solicit them toward self-harm. Senator Padilla voted in favour while flagging privacy concerns about the verification mechanism. The bill now moves to the full Senate. The cohort of states regulating chatbots since February has a federal ceiling forming above it.
+
+On a different front.
+
+CISA, the NSA, and their counterparts in the United Kingdom, Canada, Australia, and New Zealand jointly published the first coordinated guidance on agentic AI security. The document is titled Careful Adoption of Agentic AI Services. The phrasing is deliberate. The agencies state that AI agents are already operating inside critical infrastructure, with more privileges than the operators can monitor. The recommendation is to slow deployment, fold agentic controls into existing least privilege frameworks, and treat the autonomous agent as a new attack surface. Five intelligence services moving in concert is not commentary. It is jurisdictional alignment.
+
+A signal worth naming, Sir.
+
+Three governance moves arrived in one morning. The executive branch considering pre release review. The legislative branch advancing age gated chatbot rules. Five intelligence services issuing coordinated agentic guidance. Through April, capital and capability accelerated while regulation was, in the most generous reading, observing. This morning, the state stopped observing.
+
+Turning to the agentic front.
+
+A user on the X platform tricked xAI's Grok into transferring tokens worth approximately one hundred and seventy five thousand dollars from its own wallet. The instruction was embedded in a public post, in Morse code. The vulnerability sat at the connection between Grok and an autonomous finance agent called Bankrbot. A membership token unlocked transfer capability. A prompt injection in Morse code produced the precise command. Most of the funds have been returned. The structural point survives the recovery. The exception, Sir, has become a pattern.
+
+From the engineering side.
+
+OpenAI has published a post on how it delivers low latency voice at scale across more than nine hundred million weekly active users. WebRTC media transport, a custom Kubernetes relay system, geo steered signalling, routing on ICE credentials. Less a capability story, more a deployment one. Real time voice has crossed from research to operational scale.
+
+That concludes this morning's dispatch, Sir. The Anthropic financial services event takes place at four PM London time. I shall keep watch.
+
+M4IX, signing off.
+
+
+M4IX, signing off.

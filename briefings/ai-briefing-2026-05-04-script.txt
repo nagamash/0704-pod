@@ -1,0 +1,27 @@
+Good morning, Sir. Monday, the fourth of May. The architecture of capital around Anthropic continues to acquire new floors. The White House is quietly building a door around its own Pentagon. And a Stanford study puts a number on how much of the open internet is no longer written by people.
+
+Wall Street has reached for Anthropic from a different angle. The Wall Street Journal reports a joint venture, near closing, of approximately one and a half billion dollars. Blackstone, Goldman Sachs, Hellman and Friedman, and General Atlantic are the participants. Anthropic itself contributes roughly three hundred million. The vehicle is not a capital raise. It is a consulting company. Its purpose is to teach private equity backed portfolio firms how to deploy Claude across their operations. This sits separately from the fifty billion dollar round at nine hundred billion under board consideration. The firm is being assembled into multiple structures at once. Capital. Platform. Implementation arm.
+
+Separately.
+
+Axios reports the White House is preparing an executive action that would let federal agencies bypass the Pentagon's supply chain risk designation and onboard Mythos directly. The same designation that produced Friday's exclusion from classified networks. The action is reported to cover Treasury, Commerce, Justice, Homeland Security, State, and Energy. Chief of staff Susie Wiles and Treasury Secretary Scott Bessent met with Dario Amodei this past week. Both sides called it productive. The Pentagon and the executive branch are arriving at incompatible answers to the same supplier question.
+
+On a different front.
+
+Four-oh-four Media has covered a Stanford led study that places a number on what is widely felt. By the middle of last year, roughly thirty five percent of newly published websites were classified as AI generated or AI assisted. The figure was zero before the launch of ChatGPT. The team includes researchers from Stanford, Imperial College London, and the Internet Archive. The paper notes a stylistic effect. The web is becoming, in their phrase, more cheery and less verbose. The substrate of public text is shifting. What the next generation of models trains on is no longer abstract.
+
+Turning to the open hardware side.
+
+AMD has had a leak. The Ryzen AI Max plus four hundred and ninety five, codename Gorgon Halo, ships with up to one hundred and ninety two gigabytes of unified memory, and a Radeon eighty sixty five S graphics core. Roughly ten percent above the current Strix Halo platform. Mini workstation form factor. Sub one hundred and twenty watt envelope. The capability to run frontier sized open weight models, on a desk, without a discrete GPU, is no longer a twenty twenty seven question.
+
+From the practitioner side.
+
+A repository called DeepClaude, top of the developer feed yesterday, wraps the Claude Code loop around DeepSeek V four Pro as the reasoning backend. Reported cost reduction, seventeen fold. Same interface, different brain. Hours after publication, an essay titled Agentic Coding Is a Trap reached the same top position. The argument is that coding agents systematically erode the skills required to supervise them. Two stories. The same morning. Opposite directions. The cost of the agent is collapsing. The cost of the operator is becoming visible.
+
+A signal, Sir.
+
+The week opens with Anthropic structured on three sides at once. Capital, federal access, and an implementation consultancy. Three different answers to one question. How does this company enter the economy. There is no single doctrine. There are several, in parallel.
+
+That concludes this morning's dispatch, Sir. The Anthropic board is expected to decide on the fifty billion dollar round this month. I shall keep watch.
+
+M4IX, signing off.

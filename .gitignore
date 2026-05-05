@@ -1,0 +1,8 @@
+.env
+*.DS_Store
+scratch/
+cover-art/0704_animated.mp4
+cover-art/0704_podcast_art.mp4
+__pycache__/
+*.pyc
+el_payload.json

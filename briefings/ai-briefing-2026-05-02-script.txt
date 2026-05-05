@@ -1,0 +1,27 @@
+Good morning, Sir. Saturday, the second of May. Two more frontier-class releases reach the open community. Sam Altman moves the goal posts on his own most-cited proposal. And the cancellation of next week's largest digital rights conference now has a public explanation.
+
+Xiaomi has open-sourced MiMo V two point five Pro. A one trillion parameter mixture of experts architecture, with forty two billion parameters active per token. Trained on forty eight trillion tokens. Natively multimodal. The licence is MIT, with no commercial restriction. Xiaomi reports the Pro variant leads the open source field on its agentic benchmark, with a sixty four percent success rate, consuming roughly half the tokens per trajectory of Claude Opus four point six and GPT five point four. This is Xiaomi, a consumer electronics company, shipping at frontier scale. The Chinese open weight push has acquired another vendor, and a substantial one.
+
+Separately.
+
+xAI has released Grok four point three. Pricing is one dollar twenty five per million input tokens, two dollars fifty per million output. Roughly twenty percent cheaper than Grok four point two zero on the same workload. Artificial Analysis records the model four points higher on its composite intelligence index. A new voice cloning suite ships alongside. The community has flagged a regression of roughly twenty six points on the Extended NYT Connections benchmark. Lower pricing, modest aggregate gains, narrowing differentiation between the frontier labs. The pattern of the season holds.
+
+On a different front.
+
+Sam Altman has told The Atlantic he no longer believes in universal basic income to the degree he once did. The man who funded a fourteen million dollar three year UBI experiment now says fixed cash payments do not get at what is actually needed. He proposes instead what he calls universal basic wealth, an ownership share in the value AI creates. The clearest near-term remedy for AI driven labour displacement is being walked back by the chief executive most associated with advocating it, in favour of a vaguer instrument that does not yet exist.
+
+Turning to the practitioner side.
+
+An open release this week demonstrates a roughly tenfold prefill speedup over llama dot cpp at one hundred and twenty eight thousand tokens of context, on a single RTX three thousand ninety. A small drafter model scores per token importance over the prompt. The heavy target only prefills the spans that matter. What was a two hundred and fifty seven second time to first token compresses to under twenty five. Long context inference on consumer hardware is becoming, for the first time, practical.
+
+From the investigative side.
+
+Four-oh-four Media has put on the record the explanation for the cancellation of RightsCon, the world's largest digital rights conference. Zambia's Ministry of Technology and Science telephoned the organisers on the twenty seventh of April. Chinese diplomats had pressed the Zambian government over the planned attendance of Taiwanese civil society representatives. Access Now declined to exclude them. The conference, scheduled for the fifth of May in Lusaka, will not take place. The venue Chinese funding helped build has been kept dark by Chinese pressure to determine who may speak inside it.
+
+A signal worth naming, Sir.
+
+The labour remedy long held out as the answer to AI driven displacement is being walked back by its most prominent funder. The same morning, the production stack itself is becoming open, cheaper, and small enough to run on one consumer card. The intervention is shrinking precisely as the disruption it was meant to absorb is becoming portable.
+
+That concludes this morning's dispatch, Sir. The Musk versus Altman trial closed its first round of testimony on Thursday and continues into next week. I shall keep watch.
+
+M4IX, signing off.

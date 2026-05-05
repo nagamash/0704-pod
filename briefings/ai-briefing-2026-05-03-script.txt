@@ -1,0 +1,27 @@
+Good morning, Sir. Sunday, the third of May. The Pentagon's procurement architecture for frontier AI has acquired a public exclusion. Capital is repricing the firm that was excluded. And a dark money operation has been documented funding the public debate on whose AI we should fear.
+
+The Pentagon, now styled the Department of War, announced eight agreements on Friday for AI deployment on Impact Level six and seven classified networks. The named firms are Amazon, Google, Microsoft, OpenAI, SpaceX, NVIDIA, Reflection, and Oracle. Anthropic is not on the list. Pentagon CTO Emil Michael, on CNBC, framed the absence directly. He said it is irresponsible to rely on any one partner. One partner, he added, did not really want to work with the department in the way the department wished. Anthropic's published policy continues to refuse the phrase "all lawful" in government contracts. The NSA, separately, is reported to be running Anthropic's restricted Mythos model for cyber defence. The exclusion is procurement. The dependency persists.
+
+Separately.
+
+Anthropic is in talks to raise approximately fifty billion dollars at a valuation of nine hundred billion. Bloomberg, TechCrunch, and CNBC report multiple unsolicited offers from existing investors. A board decision is expected this month. At the upper end, Anthropic surpasses OpenAI's eight hundred and fifty two billion dollar post money. The annualised revenue figure now circulating is closer to forty billion than the thirty billion cited two weeks ago. The IPO window discussed is October.
+
+On a different front.
+
+Wired has published an investigation into a dark money group named Build American AI. The group is an offshoot of a super PAC called Leading the Future. The PAC has one hundred and forty million dollars committed, with fifty one million ready to spend. Marketing agencies are paying lifestyle influencers up to five thousand dollars per video. The messaging frames China's AI rise as a direct threat to American safety, and to children. Supporters of Leading the Future include OpenAI cofounder Greg Brockman, Palantir cofounder Joe Lonsdale, Andreessen Horowitz, and Perplexity. OpenAI and Palantir deny corporate funding. The influencers do not disclose. The twenty twenty six midterms will turn, in part, on the regulatory question. The conversation meant to settle that question is being bought.
+
+Turning to the open source side.
+
+IBM has released the Granite four point one family. Three sizes, three, eight, and thirty billion parameters. All dense, decoder only, Apache two. Speech, vision, embeddings, and Guardian variants ship alongside. Granite Vision four point one, at four billion parameters, is reported to surpass Claude Opus four point six on table and chart recognition. Granite is positioned for predictable latency and stable token usage, not for chain of thought theatre. The model fits the workload. Enterprise inference is becoming an accountancy.
+
+From the practitioner side.
+
+A configuration circulating this week pairs the Qwen three point six twenty seven billion parameter dense model with a local agentic search loop. The reported result is ninety five point seven percent on the SimpleQA benchmark, on a single RTX three thousand ninety. The configuration is fully local. No external calls. A benchmark previously taken to require frontier class infrastructure is now reproducible on consumer silicon at the kitchen table.
+
+A signal worth naming, Sir.
+
+The firm publicly excluded from the Pentagon's procurement list this morning is, the same morning, the firm that capital is preparing to value above every peer. Refusal, in the architecture of this week, is not being priced as a liability. It is being priced as a moat.
+
+That concludes this morning's dispatch, Sir. The Musk versus Altman trial enters its second full week. I shall keep watch.
+
+M4IX, signing off.
