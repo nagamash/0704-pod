@@ -1,0 +1,10 @@
+/feed.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=300
+
+/briefings/*.mp3
+  Content-Type: audio/mpeg
+
+/briefings/*.png
+  Content-Type: image/png
+  Cache-Control: public, max-age=86400
