@@ -22,18 +22,20 @@ FEED_PATH  = POD_DIR / "feed.xml"
 
 # Public base URL where the briefings folder is served.
 # Sir needs to point a static host at the briefings/ folder and set this.
-BASE_URL = "https://www.maxblomqvist.se/pod"
+BASE_URL       = "https://0704-pod.pages.dev"        # Cloudflare Pages — feed + cover art
+B2_AUDIO_BASE  = "https://f003.backblazeb2.com/file/0704-pod"  # Backblaze B2 — MP3s
 
 SHOW = {
     "title":       "0704",
     "description": (
-        "0704 is a private daily AI intelligence briefing, delivered each morning "
-        "at 07:04 to its one intended listener. You are not that listener.\n\n"
-        "M4IX is a constructed identity: an AI alter-ego built from Max Blomqvist's "
-        "own voice, trained on his editorial instincts, and given a callsign. Each "
-        "morning, M4IX briefs Max on what matters in AI and technology: the genuine "
-        "developments, the policy shifts, the things that will matter in six months "
-        "that most people are not yet paying attention to.\n\n"
+        "0704 is a private daily AI intelligence briefing that starts producing itself "
+        "at 07:04 every morning. It has one intended listener. You are not that listener.\n\n"
+        "M4IX is a constructed identity: an AI alter-ego voiced through an Advanced "
+        "Voice Clone, remixed into a distinct character with its own speaking cadence "
+        "and rhythm. Trained on Max Blomqvist's editorial instincts and given a "
+        "callsign. Each morning, M4IX briefs Max on what matters in AI and technology: "
+        "the genuine developments, the policy shifts, the things that will matter in "
+        "six months that most people are not yet paying attention to.\n\n"
         "This feed makes those briefings public. Nothing is changed for the audience. "
         "The briefing is addressed to one person. You are listening in."
     ),
@@ -42,7 +44,7 @@ SHOW = {
     "language":    "en",
     "category":    "Technology",
     "explicit":    "false",
-    "link":        BASE_URL,
+    "link":        "https://0704-pod.pages.dev",
 }
 
 
@@ -102,7 +104,7 @@ def build_feed() -> str:
 
         size     = file_size(mp3)
         guid     = episode_guid(mp3)
-        mp3_url  = f"{BASE_URL}/briefings/{mp3.name}"
+        mp3_url  = f"{B2_AUDIO_BASE}/{mp3.name}"
         art_url  = cover_url(date_str)
 
         # Read episode description from the script log if it exists
@@ -111,7 +113,15 @@ def build_feed() -> str:
             raw = script_md.read_text(encoding="utf-8")
             # Extract the Full Script section for the description
             m2 = re.search(r"## Full Script\s*\n+(.*?)(?:\n##|\Z)", raw, re.DOTALL)
-            desc = m2.group(1).strip()[:800] + "..." if m2 else f"0704 — {date_str}"
+            if m2:
+                text = m2.group(1).strip()
+                if len(text) > 800:
+                    cut = text[:800]
+                    last = max(cut.rfind(". "), cut.rfind(".\n"))
+                    text = cut[:last + 1] if last != -1 else cut.rsplit(" ", 1)[0]
+                desc = text
+            else:
+                desc = f"0704 — {date_str}"
         else:
             desc = f"0704 — {date_str}"
 
