@@ -30,14 +30,7 @@ SHOW = {
     "description": (
         "0704 is a private daily AI intelligence briefing that starts producing itself "
         "at 07:04 every morning. It has one intended listener. You are not that listener.\n\n"
-        "M4IX is a constructed identity: an AI alter-ego voiced through an Advanced "
-        "Voice Clone, remixed into a distinct character with its own speaking cadence "
-        "and rhythm. Trained on Max Blomqvist's editorial instincts and given a "
-        "callsign. Each morning, M4IX briefs Max on what matters in AI and technology: "
-        "the genuine developments, the policy shifts, the things that will matter in "
-        "six months that most people are not yet paying attention to.\n\n"
-        "This feed makes those briefings public. Nothing is changed for the audience. "
-        "The briefing is addressed to one person. You are listening in."
+        "This feed publishes the briefings unchanged. You're listening in."
     ),
     "author":      "Max Blomqvist",
     "email":       "hej@maxblomqvist.se",
