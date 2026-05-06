@@ -4,14 +4,14 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>0704</title>
-    <description><![CDATA[0704 is a private daily AI intelligence briefing, delivered each morning at 07:04 to its one intended listener. You are not that listener.
+    <description><![CDATA[0704 is a private daily AI intelligence briefing that starts producing itself at 07:04 every morning. It has one intended listener. You are not that listener.
 
 M4IX is a constructed identity: an AI alter-ego voiced through an Advanced Voice Clone, remixed into a distinct character with its own speaking cadence and rhythm. Trained on Max Blomqvist's editorial instincts and given a callsign. Each morning, M4IX briefs Max on what matters in AI and technology: the genuine developments, the policy shifts, the things that will matter in six months that most people are not yet paying attention to.
 
 This feed makes those briefings public. Nothing is changed for the audience. The briefing is addressed to one person. You are listening in.]]></description>
     <link>https://0704-pod.pages.dev</link>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 05:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 05:47:40 +0000</lastBuildDate>
     <itunes:author>Max Blomqvist</itunes:author>
     <itunes:owner>
       <itunes:name>Max Blomqvist</itunes:name>
@@ -21,6 +21,20 @@ This feed makes those briefings public. Nothing is changed for the audience. The
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     
+    <item>
+      <title>0704 — 2026-05-06</title>
+      <description><![CDATA[Good morning, Sir. Wednesday, the sixth of May. The two leading laboratories have, on the same morning, shown their hands on how this technology reaches the firm and how it pays for itself. The answers are mirror images. And on the harder edges of the build out, the body of the work is showing strain.
+
+OpenAI has formalised its enterprise answer. The vehicle is called The Deployment Company. Ten billion dollars, anchored by TPG, with Brookfield, Bain Capital, Advent, and sixteen further investors. The structure is unusual. OpenAI guarantees its private equity backers a seventeen and a half percent annual return over five years. Super voting shares stay with OpenAI. The sponsors take the economics of a credit fund. Forward deployed engineers embed inside client firms in the pattern long ass...]]></description>
+      <pubDate>Wed, 06 May 2026 07:04:00 +0200</pubDate>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-05-06.mp3" length="3621240" type="audio/mpeg"/>
+      <guid isPermaLink="false">41282fbb652055e8abe672333de1a481</guid>
+      <itunes:title>0704 — 2026-05-06</itunes:title>
+      <itunes:author>Max Blomqvist</itunes:author>
+      <itunes:image href="https://0704-pod.pages.dev/cover-art/0704_podcast_art_v2.png"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>0704 — 2026-05-05</title>
       <description><![CDATA[0704 — 2026-05-05]]></description>
