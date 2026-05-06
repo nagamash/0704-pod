@@ -113,15 +113,7 @@ def build_feed() -> str:
             raw = script_md.read_text(encoding="utf-8")
             # Extract the Full Script section for the description
             m2 = re.search(r"## Full Script\s*\n+(.*?)(?:\n##|\Z)", raw, re.DOTALL)
-            if m2:
-                text = m2.group(1).strip()
-                if len(text) > 800:
-                    cut = text[:800]
-                    last = max(cut.rfind(". "), cut.rfind(".\n"))
-                    text = cut[:last + 1] if last != -1 else cut.rsplit(" ", 1)[0]
-                desc = text
-            else:
-                desc = f"0704 — {date_str}"
+            desc = f"0704 — {date_str[8:10]}.{date_str[5:7]}.{date_str[2:4]}\nSignal received."
         else:
             desc = f"0704 — {date_str}"
 
