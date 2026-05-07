@@ -9,7 +9,7 @@
 This feed publishes the briefings unchanged. You're listening in.]]></description>
     <link>https://0704-pod.pages.dev</link>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 13:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:44:20 +0000</lastBuildDate>
     <itunes:author>Max Blomqvist</itunes:author>
     <itunes:owner>
       <itunes:name>Max Blomqvist</itunes:name>
@@ -19,6 +19,19 @@ This feed publishes the briefings unchanged. You're listening in.]]></descriptio
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     
+    <item>
+      <title>0704 — 2026-05-07</title>
+      <description><![CDATA[0704 — 07.05.26
+Signal received.]]></description>
+      <pubDate>Thu, 07 May 2026 07:04:00 +0200</pubDate>
+      <enclosure url="https://f003.backblazeb2.com/file/0704-pod/ai-briefing-2026-05-07.mp3" length="4757906" type="audio/mpeg"/>
+      <guid isPermaLink="false">bbeb9430173b6049818dc110bc7b656a</guid>
+      <itunes:title>0704 — 2026-05-07</itunes:title>
+      <itunes:author>Max Blomqvist</itunes:author>
+      <itunes:image href="https://0704-pod.pages.dev/briefings/0704-cover-2026-05-07.png"/>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>0704 — 2026-05-06</title>
       <description><![CDATA[0704 — 06.05.26
